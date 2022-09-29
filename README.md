@@ -1,8 +1,9 @@
 ## Blockchain assignment | Shevchenko Danil | CS-2009
-Default blockhchain connect
 
 
 ## Title
+Simple contract creater with Solidity
+
 # Token blockchain creator
 
 ## Usage
